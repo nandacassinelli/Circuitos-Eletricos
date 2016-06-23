@@ -1,4 +1,4 @@
-/*
+/*\
 Programa de demonstracao de analise nodal modificada
 Por Antonio Carlos M. de Queiroz acmq@coe.ufrj.br
 Versao 1.0 - 6/9/2000
